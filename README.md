@@ -1,8 +1,3 @@
-# Projet-Arbre-Genealogique
+# Family Tree project
 
-Quentin Thuet
----
-Tom Pillot
----
-
-Générateur d'arbre généalogique en Ada
+Cli tool to create and manage family trees.
